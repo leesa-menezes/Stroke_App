@@ -1,0 +1,7 @@
+numpy
+pandas
+streamlit
+imblearn
+scikit-learn==0.22.2
+tensorflow
+sklearn
